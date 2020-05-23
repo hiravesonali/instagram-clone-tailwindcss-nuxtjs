@@ -1,6 +1,6 @@
 <template>
   <div>
-    <nav class="bg-white shadow px-48">
+    <nav class="bg-white shadow px-48 border-b border-gray-400">
       <div class="max-w-7xl mx-auto px-2 sm:px-4 lg:px-8">
         <div class="flex justify-between h-16">
           <div class="flex px-2 lg:px-0">
@@ -14,7 +14,7 @@
               <label for="search" class="sr-only">Search</label>
               <div class="relative">
                 <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-                  <svg class="h-5 w-5 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
+                  <svg class="h-5 w-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20">
                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clip-rule="evenodd" />
                   </svg>
                 </div>
@@ -68,6 +68,27 @@
       </div>
     </nav>
 
+    <div class="bg-gray-100 h-screen px-48">
+
+      <div class="flex md:flex-row-reverse flex-wrap">
+          <div class="w-full md:w-3/4 bg-gray-500 p-4 text-center text-gray-200">
+
+          </div>
+
+
+          <div class="w-full md:w-1/4 bg-gray-400 p-4 text-center">
+              <div class="w-full relative md:w-3/4 text-center mt-8">
+                <button class="flex rounded-full" id="user-menu" aria-label="User menu" aria-haspopup="true">
+                  <img class="h-40 w-40 rounded-full" src="https://scontent-muc2-1.cdninstagram.com/v/t51.2885-19/s150x150/58468664_291773768419326_7460980271920185344_n.jpg?_nc_ht=scontent-muc2-1.cdninstagram.com&amp;_nc_ohc=16Or2MWYINEAX9vLBW0&amp;oh=ada3818c35cb64180cf431d820d9dabe&amp;oe=5EF26035" alt="" />
+                </button>
+              </div>
+          </div>
+
+
+      </div>
+
+
+    </div>
 
   </div>
 </template>
