@@ -68,15 +68,65 @@
       </div>
     </nav>
 
+          <!--body start-->
     <div class="bg-gray-100 h-screen px-48">
 
       <div class="flex md:flex-row-reverse flex-wrap">
-          <div class="w-full md:w-3/4 bg-gray-500 p-4 text-center text-gray-200">
+          <div class="w-full md:w-3/4 p-4 text-center">
+
+                  <div class="inline-grid grid-cols-3 m-4">
+                    <div class="flex">
+                      <div class="w-1/3">
+                        <div class="h-12">
+                          <h2 class="text-gray-700 text-2xl">HiraveSonali</h2>
+                        </div>
+                      </div>
+
+                      <div class="w-1/3 w-full pl-6">
+                        <div class="h-12 pl-12">
+                          <button class="bg-transparent hover:bg-blue-500 text-gray-700 font-semibold hover:text-white py-2 px-4 border border-gray-600 hover:border-transparent rounded">
+                            Edit Profile
+                          </button>
+                        </div>
+                      </div>
+
+                      <div class="w-1/3 pl-12">
+                        <div class="h-12">
+                              <div class=" lg:ml-4 lg:flex lg:items-center">
+                              <button class="p-1 border-transparent text-gray-700 rounded-full hover:text-blue-600 focus:outline-none focus:text-gray-600" aria-label="Notifications">
+                                <svg class="h-8 w-8" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke="currentColor" viewBox="0 0 24 24"><path d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"></path><path d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
+                                </button>
+                              </div>
+                        </div>
+                      </div>
+                    </div>
+
+                  </div>
+
+                <div class="text-left pl-4 pt-3">
+                  <span class="text-base font-semibold text-gray-700 mr-2"><b>220</b> posts</span>
+                  <span class="text-base font-semibold text-gray-700 mr-2"><b>114</b> followers</span>
+                  <span class="text-base font-semibold text-gray-700"><b>200</b> following</span>
+                </div>
+
+
+                <div class="text-left pl-4 pt-3">
+
+                  <span class="text-lg font-bold text-gray-700 mr-2">Sonali Hirave</span>
+
+                </div>
+
+                <div class="text-left pl-4 pt-3">
+
+                  <p class="text-base font-medium text-blue-700 mr-2">#graphicsdesigner #traveller #reader #blogger #digitalmarketer</p>
+
+                </div>
+
 
           </div>
 
 
-          <div class="w-full md:w-1/4 bg-gray-400 p-4 text-center">
+          <div class="w-full md:w-1/4 p-4 text-center">
               <div class="w-full relative md:w-3/4 text-center mt-8">
                 <button class="flex rounded-full" id="user-menu" aria-label="User menu" aria-haspopup="true">
                   <img class="h-40 w-40 rounded-full" src="https://scontent-muc2-1.cdninstagram.com/v/t51.2885-19/s150x150/58468664_291773768419326_7460980271920185344_n.jpg?_nc_ht=scontent-muc2-1.cdninstagram.com&amp;_nc_ohc=16Or2MWYINEAX9vLBW0&amp;oh=ada3818c35cb64180cf431d820d9dabe&amp;oe=5EF26035" alt="" />
