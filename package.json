@@ -1,0 +1,19 @@
+{
+  "name": "instagram-clone",
+  "version": "1.0.0",
+  "description": "Instagram clone with tailwindcss and nuxtjs.",
+  "author": "Sonali Hirave",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^1.0.0"
+  }
+}
