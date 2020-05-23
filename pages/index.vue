@@ -119,7 +119,7 @@
                 <div class="text-left pl-4 pt-3">
 
                   <p class="text-base font-medium text-blue-700 mr-2">#graphicsdesigner #traveller #reader #blogger #digitalmarketer</p>
-
+                  <p class="text-base font-medium text-gray-700 mr-2">https://www.behance.net/hiravesona7855</p>
                 </div>
 
 
@@ -133,13 +133,45 @@
                 </button>
               </div>
           </div>
-
-
       </div>
 
+        <!--status show icon-->
+
+        <div class="inline-flex ml-36 mt-16">
+        <div class="flex-1 text-center px-4 py-2 m-2">
+
+        <div class="relative shadow-xl mx-auto h-24 w-24 -my-12 border-white rounded-full overflow-hidden border-4">
+        <img class="object-cover w-full h-full" src="https://scontent-muc2-1.cdninstagram.com/v/t51.12442-15/e35/c159.407.315.315a/s150x150/91073381_504497763549014_6507821149661558216_n.jpg?_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=JIhoQ3kD5HMAX-uGdLX&oh=3ad3d9cce1a28659dfb4c823f11dd5f0&oe=5ECB8D58">
+        </div>
+        <h1>fun and work</h1>
+        </div>
+
+        <div class="flex-1 text-center px-4 py-2 m-2">
+        <div class="relative shadow-xl mx-auto h-24 w-24 -my-12 border-white rounded-full overflow-hidden border-4">
+        <img class="object-cover w-full h-full" src="https://scontent-muc2-1.cdninstagram.com/v/t51.2885-19/s150x150/58468664_291773768419326_7460980271920185344_n.jpg?_nc_ht=scontent-muc2-1.cdninstagram.com&amp;_nc_ohc=16Or2MWYINEAX9vLBW0&amp;oh=ada3818c35cb64180cf431d820d9dabe&amp;oe=5EF26035">
+        </div>
+        </div>
+
+        <div class="flex-1 text-centerpx-4 py-2 m-2">
+        <div class="relative shadow-xl mx-auto h-24 w-24 -my-12 border-white rounded-full overflow-hidden border-4">
+        <img class="object-cover w-full h-full" src="https://scontent-muc2-1.cdninstagram.com/v/t51.12442-15/e35/c0.403.928.928a/s150x150/61196089_2347348488871080_6555463159074971094_n.jpg?_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_cat=100&_nc_ohc=vNccrTA01CwAX8dO3YS&oh=9b67a83895bdc5ca62f53a0f43cd8131&oe=5ECB760C">
+        </div>
+        </div>
+
+        <div class="flex-1 text-center px-4 py-2 m-2">
+        <div class="relative shadow-xl mx-auto h-24 w-24 -my-12 border-white rounded-full overflow-hidden border-4">
+        <img class="object-cover w-full h-full" src="https://scontent-muc2-1.cdninstagram.com/v/t51.12442-15/e35/c159.407.315.315a/s150x150/91073381_504497763549014_6507821149661558216_n.jpg?_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=JIhoQ3kD5HMAX-uGdLX&oh=3ad3d9cce1a28659dfb4c823f11dd5f0&oe=5ECB8D58">
+        </div>
+        </div>
+
+        <div class="flex-1 text-center px-4 py-2 m-2">
+        <div class="relative shadow-xl mx-auto h-24 w-24 -my-12 border-white rounded-full overflow-hidden border-4">
+        <img class="object-cover w-full h-full" src="https://scontent-muc2-1.cdninstagram.com/v/t51.12442-15/e35/c159.407.315.315a/s150x150/91073381_504497763549014_6507821149661558216_n.jpg?_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=JIhoQ3kD5HMAX-uGdLX&oh=3ad3d9cce1a28659dfb4c823f11dd5f0&oe=5ECB8D58">
+        </div>
+        </div>
+      </div>
 
     </div>
-
   </div>
 </template>
 
